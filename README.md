@@ -427,14 +427,14 @@ const DEPTS=[
 ];
 let currentCamp=null; /* 目前瀏覽中的營隊，用來讓「☰ 章節」選單只顯示該營隊自己的分類 */
 const SHOTS={
-5:"images_2/shot_5.png",
-7:"images_2/shot_7.png",
-11:"images_2/shot_11.png",
-13:"images_2/shot_13.png",
-16:"images_2/shot_16.png",
-22:"images_2/shot_22.png",
-25:"images_2/shot_25.png",
-27:"images_2/shot_27.png"
+5:"images_3/shot_5.png",
+7:"images_3/shot_7.png",
+11:"images_3/shot_11.png",
+13:"images_3/shot_13.png",
+16:"images_3/shot_16.png",
+22:"images_3/shot_22.png",
+25:"images_3/shot_25.png",
+27:"images_3/shot_27.png"
 }
 
 /* ===== 場景 ===== */
